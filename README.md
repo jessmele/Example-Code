@@ -1,6 +1,7 @@
 # ma591_spring_2020
-# Jessica Mele
 ======
+# Jessica Mele
+
 
 Basic info: PhD student in Operations Research. 
 Current research: Applying
