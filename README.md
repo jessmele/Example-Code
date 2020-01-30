@@ -1,4 +1,4 @@
-# ma591_spring_2020
+ma591_spring_2020
 ======
 # Jessica Mele
 
