@@ -2,4 +2,4 @@
 # Authors: Jessica Mele, Margaret Tobey, and Johnna Brooks
 
 
-Here we use the Keras library to train and evaluate an multi-classification tool for images. We show various steps for preprocessing, training, and final evaluation. 
+Here we use the Keras library to train and evaluate an multi-class image classifiation tool. We show various steps for preprocessing, training, and final evaluation. 
