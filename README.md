@@ -1,6 +1,6 @@
 # Jessica Mele
 
-About Me: PhD student in Operations Research. 
+About Me: PhD candidate in Operations Research. 
 Current research: Data-driven methods to improve the use of computational models within the context of medical decision making.
 
 # Example Code Repository
