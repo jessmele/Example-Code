@@ -1,8 +1,9 @@
-ma591_spring_2020
 ======
 # Jessica Mele
+======
+# Example Code Repository
 
+Here you can find some example code generated from previous coursework during my Graduate studies at NC State.
 
-Basic info: PhD student in Operations Research. 
-Current research: Applying
-machine learning algorithms to patient safety event reports to determine contributing factors in hospital settings.
+About Me: PhD student in Operations Research. 
+Current research: Data-driven methods to improve the use of computational models within the context of medical decision making.
